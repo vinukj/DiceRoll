@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minted</string>
+    <string name="landing">I am Rich!</string>
+    <string name="buttonText">Roll</string>
+    <string name="logo">Logo</string>
+    <string name="leftdice">leftDice</string>
+    <string name="rightdice">rightDice</string>
+</resources>
